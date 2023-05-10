@@ -22,6 +22,7 @@ public class PlayerMovement : MonoBehaviour
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        rb = GetComponent<Animator>();
     }
 
     private void Start()
@@ -34,6 +35,8 @@ public class PlayerMovement : MonoBehaviour
         Animate();
 
         ProcessInputs();
+
+        anim.SetBool("run", horizontalInput != 0);
     }
 
     private void FixedUpdate()
