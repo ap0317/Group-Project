@@ -19,10 +19,12 @@ public class PlayerMovement : MonoBehaviour
     private bool isGrounded;
     private int jumpCount;
 
+    private Animator anim;
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-        rb = GetComponent<Animator>();
+        anim = GetComponent<Animator>();
     }
 
     private void Start()
@@ -35,8 +37,6 @@ public class PlayerMovement : MonoBehaviour
         Animate();
 
         ProcessInputs();
-
-        anim.SetBool("run", horizontalInput != 0);
     }
 
     private void FixedUpdate()
@@ -53,6 +53,7 @@ public class PlayerMovement : MonoBehaviour
     private void Move()
     {
         rb.velocity = new Vector2(moveDirection * moveSpeed, rb.velocity.y);
+        
         if (isJumping)
         {
             rb.AddForce(new Vector2(0f, jumpForce));
