@@ -10,7 +10,7 @@ public class Health : MonoBehaviour
     {
         if(health <= 0)
         {
-            Debug.Log("Enemy is dead");
+            Destroy(gameObject);
         }
     }
 }
