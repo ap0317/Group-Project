@@ -4,5 +4,13 @@ using UnityEngine;
 
 public class Health : MonoBehaviour
 {
-    public int health;
+    public int health = 10;
+
+    void Update()
+    {
+        if(health <= 0)
+        {
+            Debug.Log("Enemy is dead");
+        }
+    }
 }

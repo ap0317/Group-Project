@@ -7,6 +7,7 @@ public class PlayerAttack : MonoBehaviour
     public GameObject attackPoint;
     public float radius;
     public LayerMask enemies;
+    public int damage;
 
 
     Animator myAnimation;
@@ -35,10 +36,19 @@ public class PlayerAttack : MonoBehaviour
         }
     }
 
-    void WeaponDamage()
+    public void WeaponDamage()
     {
         Collider2D[] enemy = Physics2D.OverlapCircleAll(attackPoint.transform.position, radius, enemies);
 
-        foreach 
+        foreach (Collider2D enemyGameobject in enemy)
+        {
+            Debug.Log("Hit enemy");
+            enemyGameobject.GetComponent<Health>().health -= damage; 
+        }
+    }
+
+    private void OnDrawGizmos()
+    {
+        Gizmos.DrawWireSphere(attackPoint.transform.position, radius);
     }
 }
