@@ -43,7 +43,7 @@ public class PlayerAttack : MonoBehaviour
         foreach (Collider2D enemyGameobject in enemy)
         {
             Debug.Log("Hit enemy");
-            enemyGameobject.GetComponent<Health>().health -= damage; 
+            enemyGameobject.GetComponent<BossHealth>().health -= damage; 
         }
     }
 
