@@ -4,33 +4,28 @@ using UnityEngine;
 
 public class enemyPatrol : MonoBehaviour
 {
-    public GameObject pointA;
-    public GameObject pointB;
-    private Rigidbody2D rb;
+    public float speed;
+    public bool MoveRight;
     private Animator anim;
-    public Transform currentPoint;
-    public float speed = 2f;
 
-    // Start is called before the first frame update
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
-        currrentPoint = pointB.transform;
-        anim.SetBool("isRunning", true);
     }
 
-    // Update is called once per frame
     void Update()
     {
-        Vector2 point = currentPoint.position - transform.position;
-        if(currentPoint == pointB.transform)
+        if (MoveRight)
         {
-            rb.velocity = new Vector2(speed, 0);
+            anim.SetBool("isRunning", true);
+            transform.Translate(2 * Time.deltaTime * speed, 0, 0);
+            transform.localScale = new Vector2(2, 2);
         }
         else
         {
-            rb.velocity = new Vector2(-speed, 0);
+            anim.SetBool("isRunning", true);
+            transform.Translate(-2 * Time.deltaTime * speed, 0, 0);
+            transform.localScale = new Vector2(-2, 2);
         }
     }
 }

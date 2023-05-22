@@ -136,7 +136,6 @@ GameObject:
   - component: {fileID: 95864039}
   - component: {fileID: 95864044}
   - component: {fileID: 95864043}
-  - component: {fileID: 95864042}
   m_Layer: 3
   m_Name: Enemy (Owl Monster)
   m_TagString: Enemy
@@ -233,20 +232,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &95864042
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 95864038}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 58e938f0af3d77e4bbb5eefad85fb0e7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  pointA: {fileID: 1170634731}
-  pointB: {fileID: 321924410}
 --- !u!50 &95864043
 Rigidbody2D:
   serializedVersion: 4
@@ -1205,15 +1190,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd2fe6252198e8544880c4cd44afd3fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &3795538348034957256
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3795538348034957253}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 15fe03f785b7c324897499ca7221b75a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  health: 10
