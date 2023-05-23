@@ -4,7 +4,23 @@ using UnityEngine;
 
 public class enemyHealth : MonoBehaviour
 {
-    public int Health = 3;
+    public int health = 3;
+    private Animator anim;
+
     
-    if()
+
+    void Start()
+    {
+        anim = GetComponent<Animator>();
+    }
+
+    void Update()
+    {
+        if (health <= 0)
+        {
+            
+            anim.SetBool("dead", true);
+            
+        }
+    }
 }

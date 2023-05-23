@@ -7,6 +7,8 @@ public class enemyPatrol : MonoBehaviour
     public float speed;
     public bool MoveRight;
     private Animator anim;
+    
+
 
     void Start()
     {
@@ -28,6 +30,7 @@ public class enemyPatrol : MonoBehaviour
             transform.localScale = new Vector2(-5, 5);
         }
     }
+
 
     void OnTriggerEnter2D(Collider2D trig)
     {
