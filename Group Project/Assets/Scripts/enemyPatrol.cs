@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class enemyPatrol : MonoBehaviour
 {
-    public float speed;
+    public float speed = 10;
     public bool MoveRight;
     private Animator anim;
     
