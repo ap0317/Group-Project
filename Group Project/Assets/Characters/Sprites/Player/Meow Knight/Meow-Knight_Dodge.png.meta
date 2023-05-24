@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Dodge.png.meta
 guid: 43085f3a752572c41b6ad7e6f6c65c11
+========
+guid: 1124c5ca528d5664989010ac97f0e614
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/2 Owlet_Monster/Owlet_Monster_Death_8.png.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -164,6 +168,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Dodge.png.meta
       name: Meow-Knight_Dodge_0
       rect:
         serializedVersion: 2
@@ -213,6 +218,15 @@ TextureImporter:
         y: 130
         width: 16
         height: 14
+========
+      name: Owlet_Monster_Death_8_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 22
+        height: 28
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/2 Owlet_Monster/Owlet_Monster_Death_8.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,13 +234,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Dodge.png.meta
       spriteID: a3f98a6da4e65104bb34cfe6c5f5d32a
       internalID: -1321100453
+========
+      spriteID: de1c15e4561c88f498e12030ee603b7f
+      internalID: -364893281
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/2 Owlet_Monster/Owlet_Monster_Death_8.png.meta
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Dodge.png.meta
       name: Meow-Knight_Dodge_3
       rect:
         serializedVersion: 2
@@ -234,6 +254,15 @@ TextureImporter:
         y: 104
         width: 18
         height: 15
+========
+      name: Owlet_Monster_Death_8_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 25
+        height: 29
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/2 Owlet_Monster/Owlet_Monster_Death_8.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,13 +270,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Dodge.png.meta
       spriteID: 01131bc1c8a8d584aba8edb34de9936e
       internalID: 1976815562
+========
+      spriteID: 61f5b488fba1fce49a3814c52ac65f8f
+      internalID: 716502422
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/2 Owlet_Monster/Owlet_Monster_Death_8.png.meta
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Dodge.png.meta
       name: Meow-Knight_Dodge_4
       rect:
         serializedVersion: 2
@@ -255,6 +290,15 @@ TextureImporter:
         y: 78
         width: 14
         height: 13
+========
+      name: Owlet_Monster_Death_8_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 26
+        height: 19
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/2 Owlet_Monster/Owlet_Monster_Death_8.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -262,13 +306,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Dodge.png.meta
       spriteID: 159fdfdbf4c73524c81e44541aec25a8
       internalID: -818458033
+========
+      spriteID: 7688acbbf1842d242a14d4c5a9878f7e
+      internalID: -2142452252
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/2 Owlet_Monster/Owlet_Monster_Death_8.png.meta
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Dodge.png.meta
       name: Meow-Knight_Dodge_5
       rect:
         serializedVersion: 2
@@ -276,6 +326,15 @@ TextureImporter:
         y: 52
         width: 16
         height: 12
+========
+      name: Owlet_Monster_Death_8_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 36
+        height: 10
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/2 Owlet_Monster/Owlet_Monster_Death_8.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -283,13 +342,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Dodge.png.meta
       spriteID: 3b3d3c337c859ec469f6d9fa2bb13b73
       internalID: 793799036
+========
+      spriteID: ca8263bccba6e6f4a9069fa034e8f62e
+      internalID: 1225558161
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/2 Owlet_Monster/Owlet_Monster_Death_8.png.meta
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Dodge.png.meta
       name: Meow-Knight_Dodge_6
       rect:
         serializedVersion: 2
@@ -299,18 +364,35 @@ TextureImporter:
         height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
+========
+      name: Owlet_Monster_Death_8_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 27
+        height: 12
+      alignment: 9
+      pivot: {x: 0.49338576, y: 0.50000006}
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/2 Owlet_Monster/Owlet_Monster_Death_8.png.meta
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Dodge.png.meta
       spriteID: 0f8c687dd2c836e49bb14443b520267f
       internalID: 1206033435
+========
+      spriteID: 64502a84d1cc9e443836b8b4c8bda328
+      internalID: 1137414504
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/2 Owlet_Monster/Owlet_Monster_Death_8.png.meta
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Dodge.png.meta
       name: Meow-Knight_Dodge_7
       rect:
         serializedVersion: 2
@@ -318,6 +400,15 @@ TextureImporter:
         y: 0
         width: 13
         height: 15
+========
+      name: Owlet_Monster_Death_8_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 25
+        height: 14
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/2 Owlet_Monster/Owlet_Monster_Death_8.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -325,8 +416,34 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Dodge.png.meta
       spriteID: 8a86aa77fc0de2043a63e48418decad0
       internalID: -1588169511
+========
+      spriteID: cc5376d92387417499602d1510edc5e6
+      internalID: 1129803330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owlet_Monster_Death_8_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c5061a6a0958d4da7a19006c1fd57b
+      internalID: -1334141832
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/2 Owlet_Monster/Owlet_Monster_Death_8.png.meta
       vertices: []
       indices: 
       edges: []
@@ -342,6 +459,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Dodge.png.meta
       Meow-Knight_Dodge_7: -1588169511
       Meow-Knight_Dodge_5: 793799036
       Meow-Knight_Dodge_2: -1321100453
@@ -350,6 +468,19 @@ TextureImporter:
       Meow-Knight_Dodge_0: 1754615331
       Meow-Knight_Dodge_3: 1976815562
       Meow-Knight_Dodge_1: -1190341359
+========
+      Owlet_Monster_Death_8_10: -1334141832
+      Owlet_Monster_Death_8_3: 1225558161
+      Owlet_Monster_Death_8_0: -364893281
+      Owlet_Monster_Death_8_8: 1129803330
+      Owlet_Monster_Death_8_9: 335156096
+      Owlet_Monster_Death_8_4: -1398947020
+      Owlet_Monster_Death_8_1: 716502422
+      Owlet_Monster_Death_8_2: -2142452252
+      Owlet_Monster_Death_8_5: 1137414504
+      Owlet_Monster_Death_8_6: 281873504
+      Owlet_Monster_Death_8_7: 718143741
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/2 Owlet_Monster/Owlet_Monster_Death_8.png.meta
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

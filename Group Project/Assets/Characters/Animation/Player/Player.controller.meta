@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Group Project/Assets/Characters/Animation/Player/Player.controller.meta
+<<<<<<<< HEAD:Group Project/Assets/Characters/Animation/Player/Player.controller.meta
 guid: 9e75f0597dc4f44408ad1ec3617f0acb
+========
+guid: 788cf9f900eb44b479c499fd9464f245
+>>>>>>>> Enemy:Group Project/Assets/Characters/Animation/Boss/OwlMonster/Enemy (Owl Monster).controller.meta
+=======
+guid: 6295df8a55c1f06469fb8e3bf2fca139
+>>>>>>> Enemy:Group Project/Assets/Animation/Player/Player.controller.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 9100000

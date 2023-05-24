@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Run.png.meta
 guid: 13aacad326cd47f43b2d7b13afe7de7d
+========
+guid: 2de013acfc302e34e8e65c2d5b33edda
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Death_8.png.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -164,6 +168,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Run.png.meta
       name: Meow-Knight_Run_0
       rect:
         serializedVersion: 2
@@ -171,6 +176,15 @@ TextureImporter:
         y: 214
         width: 12
         height: 14
+========
+      name: Pink_Monster_Death_8_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 21
+        height: 29
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Death_8.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,13 +192,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Run.png.meta
       spriteID: 56e0a72934aa227499f8c3711eee1812
       internalID: -451810330
+========
+      spriteID: f45b37c3b6f08724bb7d4916639f4ee4
+      internalID: -914663583
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Death_8.png.meta
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Run.png.meta
       name: Meow-Knight_Run_1
       rect:
         serializedVersion: 2
@@ -192,6 +212,15 @@ TextureImporter:
         y: 189
         width: 11
         height: 15
+========
+      name: Pink_Monster_Death_8_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2
+        width: 22
+        height: 29
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Death_8.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -199,13 +228,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Run.png.meta
       spriteID: e03d2f0f18697da4b9d1eaf26b6b0894
       internalID: -399195610
+========
+      spriteID: 301d2c7f23e7130408f1955ec1699dbb
+      internalID: -313927743
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Death_8.png.meta
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Run.png.meta
       name: Meow-Knight_Run_2
       rect:
         serializedVersion: 2
@@ -213,6 +248,15 @@ TextureImporter:
         y: 148
         width: 12
         height: 15
+========
+      name: Pink_Monster_Death_8_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 25
+        height: 20
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Death_8.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,13 +264,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Run.png.meta
       spriteID: 34dcad57b92e6de44931706bb98bcdc4
       internalID: 883845987
+========
+      spriteID: b61c833f0b7dfc34eab39d64c8ab1cf6
+      internalID: 853488085
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Death_8.png.meta
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Run.png.meta
       name: Meow-Knight_Run_3
       rect:
         serializedVersion: 2
@@ -234,6 +284,15 @@ TextureImporter:
         y: 120
         width: 11
         height: 16
+========
+      name: Pink_Monster_Death_8_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 36
+        height: 11
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Death_8.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,13 +300,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Run.png.meta
       spriteID: 5138b28e6597bb1499886364b8b84292
       internalID: 853091985
+========
+      spriteID: 68c6bb5c3e4063b4985490e4041da71b
+      internalID: 2094783744
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Death_8.png.meta
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Run.png.meta
       name: Meow-Knight_Run_4
       rect:
         serializedVersion: 2
@@ -255,6 +320,15 @@ TextureImporter:
         y: 94
         width: 12
         height: 14
+========
+      name: Pink_Monster_Death_8_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 28
+        height: 12
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Death_8.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -262,13 +336,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Run.png.meta
       spriteID: 8df36c01dd089b8419ba33f1a0b9f083
       internalID: 970483258
+========
+      spriteID: 26f11a69e57805c43b7554ff29fe06cf
+      internalID: 719477161
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Death_8.png.meta
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Run.png.meta
       name: Meow-Knight_Run_5
       rect:
         serializedVersion: 2
@@ -276,6 +356,15 @@ TextureImporter:
         y: 69
         width: 12
         height: 15
+========
+      name: Pink_Monster_Death_8_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 25
+        height: 14
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Death_8.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -283,13 +372,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Run.png.meta
       spriteID: 1f19abfdef1e767448a5055b1722bda3
       internalID: -778973194
+========
+      spriteID: 3b47f71fe8869014398c545e41398398
+      internalID: 1102956362
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Death_8.png.meta
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Run.png.meta
       name: Meow-Knight_Run_6
       rect:
         serializedVersion: 2
@@ -297,6 +392,15 @@ TextureImporter:
         y: 28
         width: 13
         height: 15
+========
+      name: Pink_Monster_Death_8_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 54
+        height: 16
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Death_8.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,6 +408,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Run.png.meta
       spriteID: 7234e4b9f38e8b640b1298b37284036a
       internalID: 53984467
       vertices: []
@@ -327,6 +432,10 @@ TextureImporter:
       bones: []
       spriteID: 57b87239f316c1b4c97e778e2c602b5e
       internalID: -1717711712
+========
+      spriteID: d8424aa5fa0933748800f51cc315f732
+      internalID: 1171867442
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Death_8.png.meta
       vertices: []
       indices: 
       edges: []
@@ -342,6 +451,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Run.png.meta
       Meow-Knight_Run_1: -399195610
       Meow-Knight_Run_2: 883845987
       Meow-Knight_Run_4: 970483258
@@ -350,6 +460,19 @@ TextureImporter:
       Meow-Knight_Run_5: -778973194
       Meow-Knight_Run_3: 853091985
       Meow-Knight_Run_6: 53984467
+========
+      Pink_Monster_Death_8_0: -914663583
+      Pink_Monster_Death_8_2: 853488085
+      Pink_Monster_Death_8_5: 719477161
+      Pink_Monster_Death_8_4: -1398542784
+      Pink_Monster_Death_8_7: -1637613642
+      Pink_Monster_Death_8_8: 1102956362
+      Pink_Monster_Death_8_10: 1171867442
+      Pink_Monster_Death_8_6: -1514970387
+      Pink_Monster_Death_8_3: 2094783744
+      Pink_Monster_Death_8_9: 1189907008
+      Pink_Monster_Death_8_1: -313927743
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Death_8.png.meta
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

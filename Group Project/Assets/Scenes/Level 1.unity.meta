@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Scenes/Level 1.unity.meta
 guid: 4f1c0860edc9f1e46b559fcc025dad51
 DefaultImporter:
+========
+guid: cf15611ff70fa9d428a04ad351f24c15
+PrefabImporter:
+>>>>>>>> Enemy:Group Project/Assets/Prefabs/Enemy (Owl Monster).prefab.meta
   externalObjects: {}
   userData: 
   assetBundleName: 

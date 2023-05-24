@@ -1,5 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<< HEAD:Group Project/Assets/Characters/Animation/Player/Player.controller
 --- !u!1102 &-8547600753624943341
 AnimatorState:
   serializedVersion: 6
@@ -105,6 +106,9 @@ AnimatorState:
   m_CycleOffsetParameter: 
   m_TimeParameter: 
 --- !u!1107 &-106656525106657815
+=======
+--- !u!1107 &-1506449296790811703
+>>>>>>> Enemy:Group Project/Assets/Animation/Player/Player.controller
 AnimatorStateMachine:
   serializedVersion: 6
   m_ObjectHideFlags: 1
@@ -114,6 +118,7 @@ AnimatorStateMachine:
   m_Name: Base Layer
   m_ChildStates:
   - serializedVersion: 1
+<<<<<<< HEAD:Group Project/Assets/Characters/Animation/Player/Player.controller
     m_State: {fileID: 4663483389466528978}
     m_Position: {x: 420, y: 150, z: 0}
   - serializedVersion: 1
@@ -128,16 +133,28 @@ AnimatorStateMachine:
   - serializedVersion: 1
     m_State: {fileID: 6252574425708951611}
     m_Position: {x: 540, y: 40, z: 0}
+=======
+    m_State: {fileID: 8721968622717603247}
+    m_Position: {x: 200, y: 0, z: 0}
+>>>>>>> Enemy:Group Project/Assets/Animation/Player/Player.controller
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
+<<<<<<< HEAD:Group Project/Assets/Characters/Animation/Player/Player.controller
   m_AnyStatePosition: {x: 50, y: 20, z: 0}
   m_EntryPosition: {x: 100, y: 150, z: 0}
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: 4663483389466528978}
+=======
+  m_AnyStatePosition: {x: 530, y: 70, z: 0}
+  m_EntryPosition: {x: 220, y: 230, z: 0}
+  m_ExitPosition: {x: 860, y: 230, z: 0}
+  m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
+  m_DefaultState: {fileID: 8721968622717603247}
+>>>>>>> Enemy:Group Project/Assets/Animation/Player/Player.controller
 --- !u!91 &9100000
 AnimatorController:
   m_ObjectHideFlags: 0
@@ -147,6 +164,7 @@ AnimatorController:
   m_Name: Player
   serializedVersion: 5
   m_AnimatorParameters:
+<<<<<<< HEAD:Group Project/Assets/Characters/Animation/Player/Player.controller
   - m_Name: run
     m_Type: 4
     m_DefaultFloat: 0
@@ -158,11 +176,22 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
+=======
+  - m_Name: Moving
+    m_Type: 9
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 1
+>>>>>>> Enemy:Group Project/Assets/Animation/Player/Player.controller
     m_Controller: {fileID: 0}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
+<<<<<<< HEAD:Group Project/Assets/Characters/Animation/Player/Player.controller
     m_StateMachine: {fileID: -106656525106657815}
+=======
+    m_StateMachine: {fileID: -1506449296790811703}
+>>>>>>> Enemy:Group Project/Assets/Animation/Player/Player.controller
     m_Mask: {fileID: 0}
     m_Motions: []
     m_Behaviours: []
@@ -172,7 +201,11 @@ AnimatorController:
     m_IKPass: 0
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
+<<<<<<< HEAD:Group Project/Assets/Characters/Animation/Player/Player.controller
 --- !u!1102 &4663483389466528978
+=======
+--- !u!1102 &8721968622717603247
+>>>>>>> Enemy:Group Project/Assets/Animation/Player/Player.controller
 AnimatorState:
   serializedVersion: 6
   m_ObjectHideFlags: 1
@@ -182,6 +215,7 @@ AnimatorState:
   m_Name: Idle
   m_Speed: 1
   m_CycleOffset: 0
+<<<<<<< HEAD:Group Project/Assets/Characters/Animation/Player/Player.controller
   m_Transitions:
   - {fileID: 4996595440320363495}
   - {fileID: 7861519129528853205}
@@ -235,6 +269,8 @@ AnimatorState:
   m_Name: Death
   m_Speed: 1
   m_CycleOffset: 0
+=======
+>>>>>>> Enemy:Group Project/Assets/Animation/Player/Player.controller
   m_Transitions: []
   m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
@@ -245,6 +281,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
+<<<<<<< HEAD:Group Project/Assets/Characters/Animation/Player/Player.controller
   m_Motion: {fileID: 7400000, guid: d7a7f89a82a5c9e48b81c918976a424a, type: 2}
   m_Tag: 
   m_SpeedParameter: 
@@ -297,6 +334,9 @@ AnimatorState:
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
   m_Motion: {fileID: 7400000, guid: 68b295b22e65ddd4c934e62f134b53be, type: 2}
+=======
+  m_Motion: {fileID: 7400000, guid: b78b226fdfd2acd4182e98b88e0c6617, type: 2}
+>>>>>>> Enemy:Group Project/Assets/Animation/Player/Player.controller
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 

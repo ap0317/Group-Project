@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Animation/Boss/Death.anim.meta
 guid: eecaeef99b7ee36499da70f96df66003
+========
+guid: 3c039fca6bfafc4469d6c299f197403b
+>>>>>>>> Enemy:Group Project/Assets/Animation/Death.anim.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 7400000

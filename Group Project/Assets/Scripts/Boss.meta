@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Scripts/Boss.meta
 guid: 1b950f85c6a73da4cb549c0633085a7d
+========
+guid: 7508a197f2d8964448b9c448122ffea2
+>>>>>>>> Enemy:Group Project/Assets/Characters/Animation/Boss/OwlMonster.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

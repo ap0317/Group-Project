@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Boss/satiro-02.gif.meta
 guid: ffcb595e457933043976b2ca4820a7fa
+========
+guid: 4f7e5d97afd6ba84baaae79755e76463
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster.png.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}

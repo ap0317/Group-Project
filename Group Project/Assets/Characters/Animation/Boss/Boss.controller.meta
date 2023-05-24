@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Animation/Boss/Boss.controller.meta
 guid: c7766a3eed2900d4a8454c8afab840c9
+========
+guid: d4f57cd18557f6743b3db13ab3cca524
+>>>>>>>> Enemy:Group Project/Assets/Characters/Animation/Boss/PinkMonster/Enemy (Pink Monster).controller.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 9100000

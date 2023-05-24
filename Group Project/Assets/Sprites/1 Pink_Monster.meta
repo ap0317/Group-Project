@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Sprites/1 Pink_Monster.meta
 guid: 775bde56262571f44a57306201463a23
+========
+guid: 355067da64731b948856bab428f874df
+>>>>>>>> Enemy:Group Project/Assets/Characters/Animation/Boss/PinkMonster.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

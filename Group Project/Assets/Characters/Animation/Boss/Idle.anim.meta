@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Animation/Boss/Idle.anim.meta
 guid: 68bb1b2500d348e4db9566c51bbb9a96
+========
+guid: 754f6342dcc66924aad35a4bcbdecd5b
+>>>>>>>> Enemy:Group Project/Assets/Characters/Animation/Boss/PinkMonster/Idle.anim.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 7400000

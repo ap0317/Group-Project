@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Animation/Player/Attack.anim.meta
 guid: 46f8cc19d59f7914bb19fb40e9d0ecf9
+========
+guid: 61a337cc800ec2941bfcbda6073dc94b
+>>>>>>>> Enemy:Group Project/Assets/Characters/Animation/Boss/OwlMonster/New Animation.anim.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 7400000

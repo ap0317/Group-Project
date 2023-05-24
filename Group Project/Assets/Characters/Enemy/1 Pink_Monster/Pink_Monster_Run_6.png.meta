@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Death.png.meta
+guid: 483859c5f152af24e966b3daee855595
+========
+guid: bc2bc114f9ce6d9438daafb3e4fe0551
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Run_6.png.meta
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Death.png.meta
+      name: Meow-Knight_Death_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 130
+        width: 12
+        height: 15
+========
+      name: Pink_Monster_Run_6_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 19
+        height: 25
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Run_6.png.meta
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Death.png.meta
+      spriteID: 24f7fb1bd9b7e014194c8a7a6f4618b2
+      internalID: 1134646644
+========
+      spriteID: c85e9e3a7c053e84c9e20eb59698109a
+      internalID: -722523442
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Run_6.png.meta
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Death.png.meta
+      name: Meow-Knight_Death_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 104
+        width: 13
+        height: 14
+========
+      name: Pink_Monster_Run_6_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 18
+        height: 27
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Run_6.png.meta
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Death.png.meta
+      spriteID: c9b03f3f832460f4b83d5dd3a56e9dd0
+      internalID: 1566265817
+========
+      spriteID: 4454239e3cddf5148afbd5ce916f6f06
+      internalID: 124217502
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Run_6.png.meta
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Death.png.meta
+      name: Meow-Knight_Death_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 78
+        width: 16
+        height: 14
+========
+      name: Pink_Monster_Run_6_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 19
+        height: 26
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Run_6.png.meta
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Death.png.meta
+      spriteID: 8608077e9bdc9e340b609d1cd7dcfe6d
+      internalID: -962899372
+========
+      spriteID: d135af73fb94789479fbae3ddd804f26
+      internalID: 1195223832
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Run_6.png.meta
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Death.png.meta
+      name: Meow-Knight_Death_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 52
+        width: 23
+        height: 9
+========
+      name: Pink_Monster_Run_6_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 19
+        height: 25
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Run_6.png.meta
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Death.png.meta
+      spriteID: bdbfb3ba79cd5b843852a901afe23476
+      internalID: 1834469781
+========
+      spriteID: 8777c7026117f3449a8877dc84119cec
+      internalID: -1632355237
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Run_6.png.meta
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Death.png.meta
+      name: Meow-Knight_Death_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 26
+        width: 21
+        height: 10
+========
+      name: Pink_Monster_Run_6_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1
+        width: 18
+        height: 27
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Run_6.png.meta
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Death.png.meta
+      spriteID: 33db831b416feb64a8b467915cca08c3
+      internalID: -343425524
+========
+      spriteID: e06c130d3cd68c842b84e7d3cf9918e0
+      internalID: 503688347
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Run_6.png.meta
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Death.png.meta
+      name: Meow-Knight_Death_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 21
+        height: 10
+========
+      name: Pink_Monster_Run_6_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 18
+        height: 26
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Run_6.png.meta
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Death.png.meta
+      spriteID: afbd4aaaadbccf34083faf103658b8aa
+      internalID: -1522306485
+========
+      spriteID: 905ddb1ea405b6c46bd323a8e10152b2
+      internalID: -484850337
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Run_6.png.meta
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+<<<<<<<< HEAD:Group Project/Assets/Characters/Sprites/Player/Meow Knight/Meow-Knight_Death.png.meta
+      Meow-Knight_Death_3: 1834469781
+      Meow-Knight_Death_2: -962899372
+      Meow-Knight_Death_1: 1566265817
+      Meow-Knight_Death_4: -343425524
+      Meow-Knight_Death_5: -1522306485
+      Meow-Knight_Death_0: 1134646644
+========
+      Pink_Monster_Run_6_1: 124217502
+      Pink_Monster_Run_6_3: -1632355237
+      Pink_Monster_Run_6_0: -722523442
+      Pink_Monster_Run_6_5: -484850337
+      Pink_Monster_Run_6_4: 503688347
+      Pink_Monster_Run_6_2: 1195223832
+>>>>>>>> Enemy:Group Project/Assets/Characters/Enemy/1 Pink_Monster/Pink_Monster_Run_6.png.meta
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
